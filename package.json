@@ -1,0 +1,22 @@
+{
+  "name": "noveldownload",
+  "version": "1.0.0",
+  "description": "nodejs novel download",
+  "main": "home.js",
+  "scripts": {
+    "test": "node hmoe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenkecjxg/noveldownload.git"
+  },
+  "author": "skther",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenkecjxg/noveldownload/issues"
+  },
+  "homepage": "https://github.com/shenkecjxg/noveldownload#readme",
+  "dependencies": {
+    "jsdom": "^16.4.0"
+  }
+}
